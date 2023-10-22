@@ -1,1 +1,1 @@
-# OpenTx-Mega2560  St7920 an I2c Oled
+# OpenTx-Mega2560  St7920 and I2c Oled
